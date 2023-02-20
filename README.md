@@ -1,2 +1,1 @@
-# sorting_algorithms
-sorting files in c
+Solution to tasks on Sorting algorithms
